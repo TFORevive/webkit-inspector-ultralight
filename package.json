@@ -1,0 +1,25 @@
+{
+  "name": "webkit-inspector-ultralight",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "p0358",
+  "license": "BSD-2-Clause",
+  "devDependencies": {
+    "datauri": "^4.1.0",
+    "gulp": "^4.0.2",
+    "gulp-concat": "^2.6.1",
+    "gulp-postcss": "^9.0.1",
+    "gulp-replace": "^1.1.3",
+    "mini-svg-data-uri": "^1.4.4",
+    "postcss-url": "^10.1.3"
+  },
+  "dependencies": {
+    "cssnano": "^5.1.14",
+    "gulp-cssnano": "^2.1.3",
+    "gulp-esbuild": "^0.10.6",
+    "postcss-inline-svg": "^5.0.0"
+  }
+}
