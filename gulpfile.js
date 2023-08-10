@@ -40,7 +40,7 @@ gulp.task("scripts", async () => {
             minify: true,
             bundle: false,
             treeShaking: true,
-            target: "safari13",
+            target: "safari16.4.1",
             legalComments: "none",
         }))
         .pipe( gulp.dest("dist/") );
