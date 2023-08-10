@@ -12,14 +12,14 @@
     "gulp": "^4.0.2",
     "gulp-concat": "^2.6.1",
     "gulp-postcss": "^9.0.1",
-    "gulp-replace": "^1.1.3",
+    "gulp-replace": "^1.1.4",
     "mini-svg-data-uri": "^1.4.4",
     "postcss-url": "^10.1.3"
   },
   "dependencies": {
-    "cssnano": "^5.1.14",
+    "cssnano": "^5.1.15",
     "gulp-cssnano": "^2.1.3",
-    "gulp-esbuild": "^0.10.6",
+    "gulp-esbuild": "^0.10.8",
     "postcss-inline-svg": "^5.0.0"
   }
 }
